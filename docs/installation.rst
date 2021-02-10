@@ -13,3 +13,22 @@ Some test code.
 
 Normal text continues...
 
+.. warning::
+
+	At the ...
+
+.. seealso:: 
+
+	Test
+
+.. uml::
+
+   == Initialization ==
+
+   Alice -> Bob: Authentication Request
+   Bob --> Alice: Authentication Response
+
+   == Repetition ==
+
+   Alice -> Bob: Another authentication Request
+   Alice <-- Bob: another authentication Response
