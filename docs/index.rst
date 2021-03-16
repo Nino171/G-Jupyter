@@ -10,10 +10,16 @@ JupyterLab and Jupyter Notebooks are being build to demonstrate usecases in diff
 
 .. toctree::
    :maxdepth: 2
+   :caption: User documentation
+
+   overview
+
+.. toctree:: 
+   :maxdepth: 2
+   :caption: Developer documentation
 
    installation
 
-   
 
 .. note::
 
